@@ -1,0 +1,4 @@
+*.jpg
+x64/
+Debug/
+.vs/
